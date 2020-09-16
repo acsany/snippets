@@ -1,2 +1,2 @@
-# snippets
-My own stack overflow 👀
+# Snippets
+Small code snippets I keep forgetting.
