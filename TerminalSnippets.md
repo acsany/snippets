@@ -5,6 +5,7 @@ You can get a unix timestamp with `ping -D`. To get a nice timestamp, use:
 
 ```
 ping localhost | while read pong; do echo "$(date): $pong"; done
+```
 
 ## Copy current path into clipboard
 Note: Only using `pwd` adds a newline character at the end. 
